@@ -1,0 +1,11 @@
+{
+  "source": "example: five large NSE stocks with made-up weights, renormalised",
+  "as_of": "2026-11-11",
+  "weights": [
+    {"ticker": "HDFCBANK", "name": "HDFC Bank", "weight": 28.0},
+    {"ticker": "RELIANCE", "name": "Reliance Industries", "weight": 24.0},
+    {"ticker": "ICICIBANK", "name": "ICICI Bank", "weight": 18.0},
+    {"ticker": "INFY", "name": "Infosys", "weight": 16.0},
+    {"ticker": "TCS", "name": "Tata Consultancy Services", "weight": 14.0}
+  ]
+}
